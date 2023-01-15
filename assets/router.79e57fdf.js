@@ -1,0 +1,1 @@
+import{b as r}from"./index.273e31b9.js";import{u as m}from"./main.d41dadea.js";const t=m();let n=null;var u=r(({router:e})=>{n=e,e.afterEach((o,a)=>{t.setCameFrom(a.name),a.name=="home"&&t.setStartPage(o.name)})});export{u as default,n as routerInstance};
