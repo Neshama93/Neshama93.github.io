@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.6595f227.js";import{v as a,x as t,y as r,D as _}from"./index.50a4694c.js";import"./render.8e7b9b06.js";const o=_("a",{href:"http://aumha.org/arcane/ccxx.htm#top",target:"_blank"},"To Initial Idea",-1),i={__name:"IndexPage",setup(s){return(c,n)=>(a(),t(e,{class:"flex flex-center"},{default:r(()=>[o]),_:1}))}};export{i as default};

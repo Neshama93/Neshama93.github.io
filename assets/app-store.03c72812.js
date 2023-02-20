@@ -1,0 +1,1 @@
+import{j as t}from"./index.50a4694c.js";const s=t("app-store",{state:()=>({chapter:0,verse:0,routeAnimation:"route-second"}),getters:{doubleCount:e=>e.counter*2},actions:{setVerse(e){this.verse=e},setChapter(e){this.chapter=e},setRouteAnimation(e){this.routeAnimation=e}}});export{s as u};
